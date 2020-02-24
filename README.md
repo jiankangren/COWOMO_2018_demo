@@ -7,7 +7,9 @@ In this repository, it is possible to find two SDSoC projects:
  
  The two project were tested using `SDSoC 2017.1`.
  
- The tutorial (used to re-create the same source file for SDSoC using [PREESM](https://preesm.github.io/)) can be found at [this link](https://preesm.github.io/tutos/sdsoc/).
+ The tutorial used to re-create the same source file for SDSoC using [PREESM](https://preesm.github.io/) can be found at [this link](https://preesm.github.io/tutos/sdsoc/).
+ 
+ The board used for the demo is a [ZedBoard](http://zedboard.org/) developed by AVNET and equipped with a **Xilinx Zynq-7000 SoC**.
  
  Moreover, the presentation slides can be found [within the CERBERO-H2020 EU project website](https://www.cerbero-h2020.eu/wp-content/uploads/2020/02/COWOMO2018_LSuriano.pdf) and, also, in this repository.
  
@@ -27,7 +29,7 @@ To cite this work, please use:
     
 PREESM and SDSoC are not available in this repo. Please use the original tools (availble under their own licenses).
 
-For the file developed for this tutorial, please refer to Creative Commons Attribution 4.0 International Public License, available in [LICENSE.txt](https://github.com/leos313/COWOMO_2018_demo/blob/master/LICENSE.txt).
+For the file developed for this tutorial, please refere to Creative Commons Attribution 4.0 International Public License, available in [LICENSE.txt](https://github.com/leos313/COWOMO_2018_demo/blob/master/LICENSE.txt).
 
 **Snippet**:
 
